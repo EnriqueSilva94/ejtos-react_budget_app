@@ -39,7 +39,7 @@ useEffect(() => {
   return (
     <div className="alert alert-secondary">
       <div>
-      <span>Budget: {currency}</span>
+      <span>Budget:</span>
       <div>
       <label 
       htmlFor="budget"
